@@ -1,0 +1,78 @@
+#languageSwitch {
+	color: #fff;
+	cursor: pointer;
+	font-variant: small-caps;
+	position: absolute;
+		right: 1.5em;
+		top: 1em;
+	text-decoration: none;
+	z-index: 1;
+}
+
+.reveal .cover h1{
+	font-size: 4.5em;
+}
+.reveal .cover h2 {
+	margin-top: -0.2em;
+	font-size: 4em;
+	margin-bottom: 0.5em;
+}
+.reveal .cover h4 {
+	text-align: center;
+	font-family: inherit;
+	font-size: 1.5em;
+}
+
+.reveal .whoAmI {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 2em;
+}
+
+.reveal .whoAmI a {
+	display: block;
+	clear: both;
+	color: rgba(0,0,0, 0.4);
+}
+
+.reveal .whoAmI a:hover {
+	color: rgba(0, 0, 0, 0.8);
+}
+
+.reveal .whoAmI #twLogo {
+	margin-top: 1em;
+}
+
+.reveal .cover a {
+	color: #333;
+}
+
+.reveal .positive {
+	color: #22FF22;
+}
+
+.reveal .negative {
+	color: #FF3333;
+}
+.reveal section img {
+	margin: 20px;
+}
+.reveal h4 {
+	text-align: left;
+	font-family: 'Londrina Sketch', cursive;
+	font-size: 3em;
+}
+
+.reveal .reallyBig {
+	font-size: 15em;
+}
+.reveal .bigger {
+	font-size: 8em;
+}
+/* Fonts */
+.reveal .cursiveFont {
+	font-family: 'Dancing Script', cursive;
+}
+.reveal .attentionFont {
+	font-family: 'Londrina Sketch', cursive;
+}
